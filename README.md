@@ -24,7 +24,7 @@ This is a Laravel 11 RESTful API backend that provides authentication (login & r
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/jaime-code-developer/your-laravel-project.git
+   git clone https://github.com/jaime-code-developer/crud_vue_laravel_pg_back
    cd your-laravel-project
    ```
 
